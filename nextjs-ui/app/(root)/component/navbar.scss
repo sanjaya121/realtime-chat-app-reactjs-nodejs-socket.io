@@ -1,0 +1,6 @@
+header {
+	.link-container {
+		display: grid;
+		grid-template-columns: repeat(6, 2fr 6fr 4fr);
+	}
+}
